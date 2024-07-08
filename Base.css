@@ -61,9 +61,9 @@ body {
 }
 
 .containerr {
-    background-color: #333;
+    /* background-color: #333; */
     color: whitesmoke;
-    border: 2px solid grey;
+    /* border: 2px solid grey; */
     border-radius: 10px;
     text-align: center;
     width: 50rem;
@@ -83,9 +83,9 @@ body {
 }
 
 .containerl {
-    background-color: #333;
+    /* background-color: #333; */
     color: whitesmoke;
-    border: 2px solid grey;
+    /* border: 2px solid grey; */
     border-radius: 10px;
     text-align: center;
     width: 50rem;
